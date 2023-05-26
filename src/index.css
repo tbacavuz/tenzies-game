@@ -1,0 +1,18 @@
+html,
+body {
+	margin: 0;
+	font-family: Karla;
+	user-select: none;
+	overflow: hidden;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+#root {
+	height: 100vh;
+	margin: auto;
+	display: flex;
+	background: #0b2434;
+}

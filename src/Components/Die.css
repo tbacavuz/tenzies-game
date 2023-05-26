@@ -1,0 +1,20 @@
+.die {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: white;
+	width: 2.5rem;
+	height: 2.5rem;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.die > h2 {
+	padding: 5px;
+	color: #2b283a;
+}
+
+.held {
+	background-color: #59e391;
+}
